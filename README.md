@@ -1,18 +1,10 @@
-# RepoMind Test Repo
+# Project Description
+The purpose of this repository is to provide a basic structure for a new project.
 
-This is a simple test repository for checking automated PR generation.
-
-## Project Goal
-
-This repo is used to test whether RepoMind can create a branch and open a pull request.
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>RepoMind Test</title>
-</head>
-<body>
-  <h1>Hello RepoMind</h1>
-  <p>This is a test page.</p>
-</body>
-</html>
+# Setup Instructions
+## Step 1: Clone the Repository
+Clone the repository using the command `git clone https://github.com/user/repository.git`.
+## Step 2: Install Dependencies
+Install the dependencies using the command `npm install` or `yarn install`.
+## Step 3: Run the Project
+Run the project using the command `npm start` or `yarn start`.
